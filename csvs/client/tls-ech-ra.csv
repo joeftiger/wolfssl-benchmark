@@ -1,0 +1,8 @@
+Operation,Mean time taken (ms)
+AttReq Encoding,0.000
+ClientHello Extensions,0.003
+ClientHello,0.746
+Certificate Verify: AttReq Challenge Generation,0.005
+Certificate Verify: AttReq,0.005
+Certificate Verify,0.069
+Handshake,5.348

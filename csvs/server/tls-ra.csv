@@ -1,0 +1,7 @@
+Operation,Mean time taken (ms)
+ServerHello,0.022
+AttReq Challenge Generation,0.004
+AttReq Generation,0.005
+AttReq Encoding,0.000
+EncryptedExtensions,0.036
+Handshake,5.143

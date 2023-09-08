@@ -1,0 +1,5 @@
+Operation,Mean time taken (ms)
+ClientHello Extensions,0.003
+ClientHello,0.745
+Certificate Verify,0.064
+Handshake,5.332

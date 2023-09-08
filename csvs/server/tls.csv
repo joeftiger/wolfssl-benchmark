@@ -1,0 +1,4 @@
+Operation,Mean time taken (ms)
+ServerHello,0.022
+EncryptedExtensions,0.029
+Handshake,5.127
