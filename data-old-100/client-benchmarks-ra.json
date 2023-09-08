@@ -1,0 +1,3002 @@
+[
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "96652",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "7520",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "7330",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "98001",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "6109143",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "728950",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "100",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "85072",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "6940",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "6780",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "127282",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5587785",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "923823",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "71021",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "4510",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "4210",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "92931",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5574146",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "665859",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "69441",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "4070",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "3970",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "92431",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5646577",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "708730",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "60",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "69360",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "3920",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "3850",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "86561",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5525945",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "685370",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "73391",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "5220",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "5100",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "87301",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5165660",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "693099",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "60",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "70531",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "4951",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "4841",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "87171",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5216381",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "690280",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "60",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "73061",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "5110",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "5000",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "87651",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5303742",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "697319",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "76291",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "5750",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "5510",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "89662",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5237191",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "714820",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "89151",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "6390",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "5990",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "99211",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "7541412",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "674869",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "79021",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "4610",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "4360",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "105701",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5746607",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "708689",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "69331",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "3970",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "3830",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "97161",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5716418",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "848832",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "70121",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "4070",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "3980",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "90611",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5684047",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "782570",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "80",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "68240",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "3940",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "3870",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "94131",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5640446",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "702659",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "68871",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "3940",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "3870",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "87151",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5546085",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "695099",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "73341",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "5290",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "4970",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "87081",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5671447",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "704570",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "76781",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "5780",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "5300",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "91781",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "6875634",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "648759",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "80711",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "5360",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "5040",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "97792",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5583456",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "667279",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "58580",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "4150",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "4050",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "95662",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5147449",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "700969",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "80",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "72751",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "5090",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "4970",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "87651",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5314902",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "706629",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "73111",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "5100",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "4990",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "86422",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5234280",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "673229",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "70771",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "4970",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "4850",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "86551",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5204780",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "637738",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "80",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "107252",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "5250",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "5130",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "104612",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5242671",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "655529",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "60",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "75291",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "5540",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "5380",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "86281",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5266431",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "680949",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "310",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "67070",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "4820",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "4470",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "161383",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5826539",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "1108375",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "80",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "74071",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "5660",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "5000",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "97821",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5398543",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "709279",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "80",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "58311",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "4160",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "4050",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "86521",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5194460",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "701510",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "60",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "73411",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "5130",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "5010",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "88191",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5333552",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "722810",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "58821",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "4100",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "4010",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "85962",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5123010",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "634009",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "73011",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "5130",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "5000",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "86861",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5141499",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "635689",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "60",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "73591",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "5090",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "4980",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "86291",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5251501",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "696840",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "76781",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "5710",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "5180",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "90361",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "6780462",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "720610",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "80",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "69511",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "4380",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "4220",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "94961",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5616676",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "750070",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "69221",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "3730",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "3660",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "91851",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5407283",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "644069",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "90",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "69471",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "4010",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "3910",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "103062",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5425963",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "733040",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "66950",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "3800",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "3730",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "86061",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5536525",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "721640",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "66940",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "3820",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "3740",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "86601",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5485284",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "683129",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "60",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "69101",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "4060",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "3960",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "83511",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5429433",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "669439",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "72111",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "4830",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "4640",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "87141",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5597536",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "702770",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "71661",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "4510",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "4340",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "95731",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5580096",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "675350",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "80",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "70191",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "4181",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "4011",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "91911",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5571295",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "699549",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "69270",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "3950",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "3890",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "88341",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5477594",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "700119",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "60",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "68801",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "3960",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "3890",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "84271",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5451204",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "647909",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "69131",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "4020",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "3920",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "86281",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5563255",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "685180",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "60",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "68821",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "3860",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "3790",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "86891",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5514775",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "702050",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "70810",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "4290",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "4150",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "86332",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5446774",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "638309",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "72401",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "5220",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "4810",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "91942",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5630016",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "700270",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "80",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "69861",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "4120",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "3960",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "94061",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5578026",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "704300",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "72571",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "3920",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "3840",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "91541",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5491634",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "677659",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "68951",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "3961",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "3901",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "88701",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5559515",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "725030",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "60",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "68631",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "3910",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "3830",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "82311",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5393743",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "618028",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "60",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "68301",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "3970",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "3910",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "81421",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5336022",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "645258",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "68311",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "3960",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "3870",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "84491",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5530655",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "716710",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "74801",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "4920",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "4760",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "89851",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5587966",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "707009",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "80",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "71371",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "4500",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "4180",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "97762",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5620956",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "696719",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "69081",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "4090",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "3990",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "93321",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5561035",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "720050",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "68451",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "3870",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "3810",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "86981",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5449364",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "639178",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "68531",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "3910",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "3810",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "86411",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5583946",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "692130",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "80",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "69501",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "4050",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "3940",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "101712",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5453434",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "700539",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "60",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "65921",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "3680",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "3610",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "84131",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5459794",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "616108",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "60",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "70811",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "4380",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "4220",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "86741",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5613236",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "722390",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "71571",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "4981",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "4661",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "103341",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5740037",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "747590",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "69861",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "4040",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "3890",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "95201",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5597976",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "704600",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "67250",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "3800",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "3720",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "87651",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5487484",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "698109",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "60",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "70741",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "3910",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "3820",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "86401",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5505614",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "637508",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "67420",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "3870",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "3800",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "86991",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5541915",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "696030",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "69431",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "3980",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "3910",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "87121",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5507414",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "694829",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "68871",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "3910",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "3840",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "86621",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5451964",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "659089",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "64681",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "3710",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "3640",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "86571",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5565755",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "733600",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "500",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "70001",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "5050",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "4730",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "153932",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5700527",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "1106155",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "60",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "73061",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "5090",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "4970",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "90262",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5165500",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "686609",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "60",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "73701",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "5140",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "5020",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "81641",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5289662",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "715570",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "72771",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "5080",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "4960",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "86671",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5199700",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "704530",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "60",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "72841",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "5080",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "4960",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "85861",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5117439",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "634349",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "70131",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "4200",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "4100",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "87571",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5309871",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "634818",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "104912",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "5231",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "5111",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "86991",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5393652",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "638358",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "98681",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "7460",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "7130",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "86991",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5407774",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "710120",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "100",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "113781",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "5240",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "5000",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "158872",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5923110",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "1203486",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "72991",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "5140",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "5030",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "86121",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5245641",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "684749",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "60",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "58850",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "4140",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "4030",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "87851",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5196020",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "722950",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "73121",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "5110",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "4990",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "88161",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5141859",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "687739",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "70251",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "4920",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "4800",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "86272",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5129249",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "664229",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "72961",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "5110",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "4990",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "86271",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5167680",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "632918",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "73201",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "5110",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "4980",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "86121",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5083339",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "633118",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "60",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "99482",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "7560",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "7240",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "85971",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5345293",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "682630",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "60",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "58371",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "4130",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "4020",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "91681",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5108839",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "647359",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "72881",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "5080",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "4960",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "87741",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5627666",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "687990",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "72931",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "5070",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "4950",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "86751",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5294512",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "637028",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "80",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "73431",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "5150",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "5040",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "100942",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5300752",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "719200",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "60",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "58191",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "4160",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "4050",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "86091",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5181250",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "701759",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "110",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "72801",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "5110",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "4990",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "89191",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5271882",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "689640",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "60",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "72621",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "5110",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "4990",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "86361",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5120450",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "665959",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "110",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "73391",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "6250",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "5870",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "152392",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5577845",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "992273",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "60",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "58691",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "4130",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "4040",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "87591",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5313382",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "690830",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "72891",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "5110",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "4990",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "89091",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5269521",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "695179",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "100",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "73381",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "5090",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "4970",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "86101",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5254021",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "675329",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "67941",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "4760",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "4650",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "87791",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5245691",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "661589",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "80",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "59811",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "4110",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "4010",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "101251",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5304761",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "734190",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "70",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "58291",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "4140",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "4040",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "87062",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5237391",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "718370",
+            "s": "0"
+        }
+    },
+    {
+        "client_att_request": {
+            "ns": "60",
+            "s": "0"
+        },
+        "client_certificate_verify": {
+            "ns": "99062",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request": {
+            "ns": "7651",
+            "s": "0"
+        },
+        "client_certificate_verify_att_request_challenge_generation": {
+            "ns": "7321",
+            "s": "0"
+        },
+        "client_extensions": {
+            "ns": "87851",
+            "s": "0"
+        },
+        "client_handshake": {
+            "ns": "5307523",
+            "s": "0"
+        },
+        "client_hello": {
+            "ns": "710170",
+            "s": "0"
+        }
+    }
+]
